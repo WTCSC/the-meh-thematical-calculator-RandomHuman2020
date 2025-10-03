@@ -33,21 +33,7 @@ def divide(num1, num2):
             return divided
     except ValueError:
         return "fail_invalid"
-# some debug stuff here
-#operation = input("Select an operation. ")
-#number01 = input("Insert first number. ")
-#number02 = input("Insert second number. ")
 
-#if operation == "add":
-#    print(add(number01, number02))
-#elif operation == "subtract":
-#    print(subtract(number01, number02))
-#elif operation == "multiply":
-#    print(multiply(number01, number02))
-#elif operation == "divide":
-#    print(divide(number01, number02))
-
-#end debug code
 keepgoing = True
 print("I guess we're doing math now. \nGreat. \nWhat do you want to do?")
 
