@@ -15,7 +15,7 @@ python calc.py
 - Python 3
 
 ## Usage
-This script does not take any command-line arguments. Simply input one of the numbers shown to select an option.
+This script does not take any command-line arguments. Simply input the options presented to you, then two whole numbers to run a calculation
 
 ## Contributing
 If you wish to contribute code to this project, fork the repo, make your changes, and make a pull request.
