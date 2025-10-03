@@ -61,7 +61,7 @@ elif operation.lower() == "subtract":
         print(f"Now, what number do you want subtracted from {number1}?")
         number2 = input("(Input any whole number.) ")
         print(f"So, you want me to subtract {number2} from {number1}. \nFine.")
-        if add(number1, number2) == "fail_invalid":
+        if subtract(number1, number2) == "fail_invalid":
             print("I asked you for WHOLE NUMBERS. Not whatever that is.\nTry again.")
             success = False
         else:
@@ -75,7 +75,7 @@ elif operation.lower() == "multiply":
         print(f"Now, what number do you want me to multiply {number1} by?")
         number2 = input("(Input any whole number.) ")
         print(f"So, you want me to multiply {number1} by {number2}. \nFine.")
-        if add(number1, number2) == "fail_invalid":
+        if multiply(number1, number2) == "fail_invalid":
             print("I asked you for WHOLE NUMBERS. Not whatever that is.\nTry again.")
             success = False
         else:
