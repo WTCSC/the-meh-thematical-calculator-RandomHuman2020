@@ -24,3 +24,6 @@ If you wish to contribute code to this project, fork the repo, make your changes
 This project is licensed under the BSD Zero Clause License.
 
 See LICENSE.md for more info.
+
+## Flowchart
+![A flowchart.](flowchart.png)
