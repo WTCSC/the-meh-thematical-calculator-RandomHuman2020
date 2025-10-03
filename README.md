@@ -1,6 +1,6 @@
 ## "Meh"-thematical Calculator
 #### by Owen Milota
-This is a simple app, which will run simple mathematical operations for you, to its own dismay.
+This is a simple script, which will run simple mathematical operations for you, to its own dismay.
 
 ## Installation
 Simply clone the repo and run the `calc.py` script.  
