@@ -34,15 +34,17 @@ def divide(num1, num2):
     except ValueError:
         return "fail_invalid"
 # some debug stuff here
-operation = input("Select an operation. ")
-number01 = input("Insert first number. ")
-number02 = input("Insert second number. ")
+#operation = input("Select an operation. ")
+#number01 = input("Insert first number. ")
+#number02 = input("Insert second number. ")
 
-if operation == "add":
-    print(add(number01, number02))
-elif operation == "subtract":
-    print(subtract(number01, number02))
-elif operation == "multiply":
-    print(multiply(number01, number02))
-elif operation == "divide":
-    print(divide(number01, number02))
+#if operation == "add":
+#    print(add(number01, number02))
+#elif operation == "subtract":
+#    print(subtract(number01, number02))
+#elif operation == "multiply":
+#    print(multiply(number01, number02))
+#elif operation == "divide":
+#    print(divide(number01, number02))
+
+#end debug code
