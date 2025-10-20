@@ -13,12 +13,21 @@ python calc.py
 ## Requirements
 - Git
 - Python 3
+- PyTest
 
 ## Usage
 This script does not take any command-line arguments. Simply input the options presented to you, then two whole numbers to run a calculation
 
 ## Contributing
 If you wish to contribute code to this project, fork the repo, make your changes, and make a pull request.
+Make sure to run pytest before making a pull request, as non-functional code will not be accepted.
+```bash
+pytest
+```
+or
+```bash
+pytest -v
+```
 
 ## Licensing
 This project is licensed under the BSD Zero Clause License.
