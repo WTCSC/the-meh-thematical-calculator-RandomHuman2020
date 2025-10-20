@@ -30,6 +30,6 @@ def divide(num1, num2):
             return "fail_dividebyzero"
         else:
             divided = num1 / num2
-            return divided
+            return round(divided, 5)
     except ValueError:
         return "fail_invalid"
