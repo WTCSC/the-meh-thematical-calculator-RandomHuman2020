@@ -28,6 +28,7 @@ or
 ```bash
 pytest -v
 ```
+in the project directory.
 
 ## Licensing
 This project is licensed under the BSD Zero Clause License.
